@@ -30,7 +30,7 @@ Despite existing commercial solutions, this hospital lacked an integrated tool. 
 ---
 
 ## 📂 Contents
-
+⚠️ Data folder is too heavy to be uploaded and is private due to Hospital privacy policy, therefore it hasn't been added. ⚠️
 ```
 Radiotherapy_Collision_Detection/
 ├── collision_analysis.ipynb              # General-purpose notebook for loading and analyzing any patient case
